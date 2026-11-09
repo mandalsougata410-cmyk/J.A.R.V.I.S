@@ -1,0 +1,21 @@
+{
+  "name": "jarvis-incident-visualizer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "J.A.R.V.I.S. | Justified Analysis, Reasoning & Visualization of Incident Systems",
+  "scripts": {
+    "start": "npx serve .",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "incident-response",
+    "root-cause-analysis",
+    "sre",
+    "observability",
+    "ai-agent",
+    "jarvis",
+    "nitshacks"
+  ],
+  "author": "BITCODE",
+  "license": "MIT"
+}
